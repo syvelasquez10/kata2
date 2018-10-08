@@ -1,0 +1,24 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+boto = "*"
+dj-database-url= "*"
+gunicorn = "*"
+psycopg2 = "*"
+whitenoise = "*"
+django-bootstrap3 = "*"
+django-boto = "*"
+django-heroku-postgresify = "*"
+django-storages = "*"
+Pillow = "*"
+django-s3-folder-storage = "*"
+django-cors-headers = "*"
+selenium = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
