@@ -17,7 +17,7 @@ Pillow = "*"
 django-s3-folder-storage = "*"
 django-cors-headers = "*"
 selenium = "*"
-django = "==2.0.9"
+django = "==2.2.13"
 
 [dev-packages]
 
